@@ -37,7 +37,6 @@ fun main(){
     val quadrate:Quadrate = Quadrate(7F)
     pryamougolniTriangle.perimeter()
     pryamougolniTriangle.area()
-    circle.area()
     quadrate.perimeter()
     println("Perimeter pryamougolnjgoTriangle =  ${pryamougolniTriangle.perimeter()}")
     println("Area pryamougolnjgoTriangle = ${pryamougolniTriangle.area()} ")
@@ -48,4 +47,5 @@ fun main(){
 
 
 }
+
 
